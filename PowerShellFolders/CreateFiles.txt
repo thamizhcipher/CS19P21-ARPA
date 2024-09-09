@@ -1,0 +1,3 @@
+New-item -path . -name "first.txt" -itemtype "file" -value "this is the content of first file"
+New-item -path . -name "second.txt" -itemtype "file" -value "this is the content of second file"
+New-item -path . -name "third.txt" -itemtype "file" -value "this is the content of third file"

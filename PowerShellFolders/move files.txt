@@ -1,0 +1,3 @@
+move-item -path "first.txt" -destination "REC"
+move-item -path "second.txt" -destination "REC"
+move-item -path "third.txt" -destination "REC"

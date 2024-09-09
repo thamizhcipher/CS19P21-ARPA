@@ -1,0 +1,6 @@
+$first=10
+$second=20
+$result=$first+$second
+$out="The result is:"+$result
+
+New-Item -Path . -Name "result.txt" -ItemType "file" -value $out
