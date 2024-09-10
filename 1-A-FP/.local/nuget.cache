@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3WLi6s3FrSXmF9CSx+ahtKE+DFluPETKxYVTrHST6AhUDrybLpFvCZeI5jfYU3Yv93C5ijPY27NFs8TkBMyNWw==",
+  "dgSpecHash": "UuF1gSHd32Kr4LvqRmiAhlgFmlLoPdif0g3CafFTVgQr7YZ6h/ntrWWHWPZgW42sWM4CHYxyd1ZaUvaTbAPftw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thami\\OneDrive\\Documents\\UiPath\\ForegroundProcess\\.local\\",
+  "projectFilePath": "C:\\Users\\thami\\OneDrive\\Documents\\UiPath\\ARPA\\1-A-FP\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\thami\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\thami\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

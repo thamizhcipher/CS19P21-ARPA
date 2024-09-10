@@ -21899,9 +21899,9 @@
     "restore": {
       "projectUniqueName": "ForegroundProcess",
       "projectName": "ForegroundProcess",
-      "projectPath": "C:\\Users\\thami\\OneDrive\\Documents\\UiPath\\ForegroundProcess\\.local",
+      "projectPath": "C:\\Users\\thami\\OneDrive\\Documents\\UiPath\\ARPA\\1-A-FP\\.local",
       "packagesPath": "C:\\Users\\thami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thami\\OneDrive\\Documents\\UiPath\\ForegroundProcess\\.local"
+      "outputPath": "C:\\Users\\thami\\OneDrive\\Documents\\UiPath\\ARPA\\1-A-FP\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
